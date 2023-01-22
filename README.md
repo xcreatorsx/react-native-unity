@@ -4,7 +4,9 @@
 
 ```sh
 
- yarn add https://github.com/xcreatorsx/react-native-unity.git
+ yarn add https://github.com/xcreatorsx/react-native-unity.git`
+ 
+```
 
 ## Android integration instructions
 
